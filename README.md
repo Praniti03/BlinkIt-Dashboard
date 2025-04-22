@@ -8,12 +8,11 @@ This Power BI report provides data visualizations and insights related to Blinki
 - KPI indicators
 - Time-series analysis
 - Visual representation of key metrics
-- Filtering and slicing by dimensions such as product, category, region, or time (depending on data)
-
+- Filtering and slicing by dimensions such as product, category, and region.
+- 
 ## 🧠 Insights Covered
 
 - Sales performance
 - Customer trends
 - Delivery metrics
 - Product-level breakdown
-- Operational efficiency (if available in dataset)
