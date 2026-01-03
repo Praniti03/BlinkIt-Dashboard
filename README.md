@@ -22,13 +22,13 @@ BlinkIt operates across multiple outlets and product categories, making it chall
 
 The dashboard focuses on the following core KPIs:
 
-•	Total Sales: Overall revenue generated from all items sold
+•	**Total Sales**: Overall revenue generated from all items sold
 
-•	Average Sales: Average revenue per transaction
+•	**Average Sales**: Average revenue per transaction
 
-•	Number of Items: Total count of items sold
+•	**Number of Items**: Total count of items sold
 
-•	Average Rating: Average customer rating for items sold
+•	**Average Rating**: Average customer rating for items sold
 
 **Data Processing & Modeling**
 
