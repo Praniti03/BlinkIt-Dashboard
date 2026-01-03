@@ -12,7 +12,7 @@ BlinkIt operates across multiple outlets and product categories, making it chall
 
 •	Analyze overall sales performance and customer ratings
 
-•	Evaluate product- and outlet-level performance
+•	Evaluate product and outlet-level performance
 
 •	Understand how factors such as fat content, outlet size, and location influence sales
 
