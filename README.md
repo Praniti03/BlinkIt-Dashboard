@@ -1,14 +1,14 @@
-**BlinkIt Sales Performance Dashboard**
+📊**BlinkIt Sales Performance Dashboard**
 
-**Overview**
+🔍**Overview**
 
 This project focuses on building an interactive Power BI dashboard to analyze BlinkIt’s sales performance, customer ratings, and inventory distribution. The goal was to translate business requirements into actionable insights using key performance indicators (KPIs) and data visualizations to support data-driven decision-making.
 
-**Business Problem**
+🧠**Business Problem**
 
 BlinkIt operates across multiple outlets and product categories, making it challenging to track sales performance, customer satisfaction, and inventory trends at scale. Stakeholders need a consolidated view of key metrics to identify high-performing products, underperforming segments, and opportunities for optimization.
 
-**Objectives**
+🎯**Objectives**
 
 •	Analyze overall sales performance and customer ratings
 
@@ -18,7 +18,7 @@ BlinkIt operates across multiple outlets and product categories, making it chall
 
 •	Present insights through an interactive and easy-to-use dashboard
 
-**Key KPIs**
+📌**Key KPIs**
 
 The dashboard focuses on the following core KPIs:
 
@@ -30,7 +30,7 @@ The dashboard focuses on the following core KPIs:
 
 •	**Average Rating**: Average customer rating for items sold
 
-**Data Processing & Modeling**
+🧹**Data Processing & Modeling**
 
 •	Performed data walkthroughs and connected raw datasets to Power BI
 
@@ -40,7 +40,7 @@ The dashboard focuses on the following core KPIs:
 
 •	Implemented DAX measures to calculate KPIs dynamically across different dimensions
 
-**Analysis & Visualizations**
+📈**Analysis & Visualizations**
 
 The dashboard includes multiple visualizations to address business questions:
 
@@ -60,7 +60,7 @@ The dashboard includes multiple visualizations to address business questions:
 
 Interactive filters and drill-downs allow users to explore trends across item type, fat content, outlet size, location, and establishment type.
 
-**Key Insights**
+💡**Key Insights**
 
 •	Certain product categories and fat content types consistently outperform others
 
@@ -70,7 +70,7 @@ Interactive filters and drill-downs allow users to explore trends across item ty
 
 •	Clear opportunities exist for inventory optimization and product assortment planning
 
-**Tools & Technologies**
+🛠️**Tools & Technologies**
 
 •	Power BI (Dashboard development & visualization)
 
@@ -78,6 +78,6 @@ Interactive filters and drill-downs allow users to explore trends across item ty
 
 •	Data Modeling (Relationships & schema design)
 
-**Outcome**
+🚀**Outcome**
 
 The final dashboard provides a consolidated, interactive view of sales and customer metrics, enabling effective performance evaluation and supporting data-driven inventory and product assortment decisions.
